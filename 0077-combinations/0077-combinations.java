@@ -1,8 +1,7 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
-        List<Integer> list = new ArrayList<>();
         List<List<Integer>> ans = new ArrayList<>();
-        helper(n,k,1,list,ans);
+        helper(n,k,1,new ArrayList<>(),ans);
         return ans;
     }
 
