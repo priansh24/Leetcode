@@ -10,14 +10,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/priansh24/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/priansh24/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/priansh24/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/priansh24/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 # Binary Tree
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/priansh24/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/priansh24/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 # Array
 |  |
 | ------- |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Linked List
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/priansh24/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/priansh24/Leetcode/tree/master/0146-lru-cache) |
 # Design
 |  |
@@ -50,3 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/priansh24/Leetcode/tree/master/0146-lru-cache) |
+# Depth-First Search
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/priansh24/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
