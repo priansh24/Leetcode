@@ -18,3 +18,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/priansh24/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+# Array
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/priansh24/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
+# Math
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/priansh24/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
+# Enumeration
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/priansh24/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
+# Number Theory
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/priansh24/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
