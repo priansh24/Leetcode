@@ -26,22 +26,19 @@ public Node connect(Node root) {
     if (root == null){
       return null;
     }
-    Node temp = root;
-    Queue<Node> q = new LinkedList<>();
-    q.add(root);
-    while(!q.isEmpty())
-    {
-        Node prev = null;
-        int levelSize = q.size();
-        for(int i = 0;i<levelSize;i++)
-        {
-            Node newNode = q.poll();
-            newNode.next = prev;
-            prev = newNode;
-            if(newNode.right!=null) q.add(newNode.right);
-            if(newNode.left!=null) q.add(newNode.left);
+
+    Node leftMost = root;
+
+    while (leftMost.left != null) {
+      Node current = leftMost;
+      while(current != null) {
+        current.left.next = current.right;
+        if(current.next != null) {
+          current.right.next = current.next.left;
         }
-        
+        current = current.next;
+      }
+      leftMost = leftMost.left;
     }
     return root;
   }
