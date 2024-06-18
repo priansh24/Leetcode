@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/priansh24/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/priansh24/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/priansh24/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/priansh24/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/priansh24/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/priansh24/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/priansh24/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/priansh24/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/priansh24/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/priansh24/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/priansh24/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/priansh24/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/priansh24/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/priansh24/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priansh24/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 # Bit Manipulation
