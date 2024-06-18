@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/priansh24/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [2873-prime-pairs-with-target-sum](https://github.com/priansh24/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 # Math
 |  |
@@ -89,7 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/priansh24/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priansh24/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priansh24/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0853-most-profit-assigning-work](https://github.com/priansh24/Leetcode/tree/master/0853-most-profit-assigning-work) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/priansh24/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+# Two Pointers
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/priansh24/Leetcode/tree/master/0853-most-profit-assigning-work) |
+# Greedy
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/priansh24/Leetcode/tree/master/0853-most-profit-assigning-work) |
+# Sorting
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/priansh24/Leetcode/tree/master/0853-most-profit-assigning-work) |
