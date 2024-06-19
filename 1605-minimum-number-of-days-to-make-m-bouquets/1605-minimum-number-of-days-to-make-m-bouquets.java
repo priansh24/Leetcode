@@ -41,9 +41,10 @@ class Solution {
         int low = minLimit(bloomDay);
         int high = maxLimit(bloomDay);
         int ans = -1;
+        int mid;
         while(low<=high)
         {
-            int mid = low+(high-low)/2;
+            mid = low+(high-low)/2;
             if(isPossible(bloomDay,mid,m,k))
             {
                 ans = mid;
