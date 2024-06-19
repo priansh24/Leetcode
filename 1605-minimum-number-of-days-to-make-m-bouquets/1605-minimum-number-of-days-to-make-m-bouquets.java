@@ -23,11 +23,11 @@ class Solution {
     private boolean isPossible(int[] bloomDay, int day, int m, int k)
     {
         int count = 0, noOfBoq = 0;
-        // for(int i:bloomDay)
-        for(int i = 0;i<bloomDay.length;i++)
+        for(int i:bloomDay)
+        // for(int i = 0;i<bloomDay.length;i++)
         {
-            // if(i<=day) count++;
-            if(day>=bloomDay[i]) count++;
+            if(i<=day) count++;
+            // if(day>=bloomDay[i]) count++;
             else
             {
                 noOfBoq += count/k;
