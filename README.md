@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/priansh24/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/priansh24/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2873-prime-pairs-with-target-sum](https://github.com/priansh24/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 # Math
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priansh24/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priansh24/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0853-most-profit-assigning-work](https://github.com/priansh24/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/priansh24/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Bit Manipulation
 |  |
 | ------- |
