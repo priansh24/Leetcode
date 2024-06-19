@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/priansh24/Leetcode/tree/master/0067-add-binary) |
+| [0633-sum-of-square-numbers](https://github.com/priansh24/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2873-prime-pairs-with-target-sum](https://github.com/priansh24/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 # Enumeration
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/priansh24/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priansh24/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priansh24/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0633-sum-of-square-numbers](https://github.com/priansh24/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priansh24/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/priansh24/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0853-most-profit-assigning-work](https://github.com/priansh24/Leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/priansh24/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priansh24/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0853-most-profit-assigning-work](https://github.com/priansh24/Leetcode/tree/master/0853-most-profit-assigning-work) |
 # Greedy
