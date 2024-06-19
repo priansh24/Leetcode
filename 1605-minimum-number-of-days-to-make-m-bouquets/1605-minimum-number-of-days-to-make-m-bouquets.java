@@ -20,12 +20,14 @@ class Solution {
         }
         return max;
     }
-    private int isPossible(int[] bloomDay, int day, int m, int k)
+    private boolean isPossible(int[] bloomDay, int day, int m, int k)
     {
         int count = 0, noOfBoq = 0;
-        for(int i:bloomDay)
+        // for(int i:bloomDay)
+        for(int i = 0;i<bloomDay.length;i++)
         {
-            if(i<=day) count++;
+            // if(i<=day) count++;
+            if(day>=bloomDay[i]) count++;
             else
             {
                 noOfBoq += count/k;
@@ -33,8 +35,8 @@ class Solution {
             }
         }
         noOfBoq += count/k;
-        if(noOfBoq>=m) return 1;
-        else return -1;
+        if(noOfBoq>=m) return true;
+        else return false;
     }
     public int minDays(int[] bloomDay, int m, int k) {
         if(m*k>bloomDay.length) return -1;
@@ -45,7 +47,7 @@ class Solution {
         while(low<=high)
         {
             mid = low+(high-low)/2;
-            if(isPossible(bloomDay,mid,m,k)==1)
+            if(isPossible(bloomDay,mid,m,k))
             {
                 ans = mid;
                 high = mid-1;
