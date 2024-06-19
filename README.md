@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/priansh24/Leetcode/tree/master/0067-add-binary) |
 | [2873-prime-pairs-with-target-sum](https://github.com/priansh24/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 # Enumeration
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/priansh24/Leetcode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/priansh24/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 # Two Pointers
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/priansh24/Leetcode/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/priansh24/Leetcode/tree/master/0257-binary-tree-paths) |
 # Monotonic Stack
 |  |
@@ -195,3 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/priansh24/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+# Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/priansh24/Leetcode/tree/master/0067-add-binary) |
