@@ -5,7 +5,8 @@ class Solution {
         int min = bloomDay[0];
         for(int day:bloomDay)
         {
-            min = Math.min(min,day);
+            // min = Math.min(min,day);
+            min = min<day?min:day;
         }
            return min;
     }
@@ -14,7 +15,8 @@ class Solution {
         int max = bloomDay[0];
         for(int day:bloomDay)
         {
-            max = Math.max(max,day);
+            // max = Math.max(max,day);
+            max = max>day?max:day;
         }
         return max;
     }
