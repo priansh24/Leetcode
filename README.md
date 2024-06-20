@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/priansh24/Leetcode/tree/master/0146-lru-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priansh24/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1217-relative-sort-array](https://github.com/priansh24/Leetcode/tree/master/1217-relative-sort-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/priansh24/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 # Linked List
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/priansh24/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/priansh24/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/priansh24/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2427-first-letter-to-appear-twice](https://github.com/priansh24/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 # Two Pointers
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/priansh24/Leetcode/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/priansh24/Leetcode/tree/master/0257-binary-tree-paths) |
+| [2427-first-letter-to-appear-twice](https://github.com/priansh24/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -217,3 +220,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/priansh24/Leetcode/tree/master/1217-relative-sort-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/priansh24/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
