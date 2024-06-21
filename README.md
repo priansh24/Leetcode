@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/priansh24/Leetcode/tree/master/0136-single-number) |
 | [0853-most-profit-assigning-work](https://github.com/priansh24/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/priansh24/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1138-grumpy-bookstore-owner](https://github.com/priansh24/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/priansh24/Leetcode/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/priansh24/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/priansh24/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -221,3 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1217-relative-sort-array](https://github.com/priansh24/Leetcode/tree/master/1217-relative-sort-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/priansh24/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/priansh24/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
