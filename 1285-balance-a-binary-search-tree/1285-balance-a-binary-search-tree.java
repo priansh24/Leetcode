@@ -32,7 +32,6 @@ class Solution {
         head.right = sortedArraytoBST(nums,mid+1,end);
         return head;
     }
-    int index = 0;
     public TreeNode balanceBST(TreeNode root) {
         if(root==null) return root;
         List<Integer> list = new ArrayList<>();
