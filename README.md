@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priansh24/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/priansh24/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priansh24/Leetcode/tree/master/0137-single-number-ii) |
+| [0777-toeplitz-matrix](https://github.com/priansh24/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0853-most-profit-assigning-work](https://github.com/priansh24/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/priansh24/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1138-grumpy-bookstore-owner](https://github.com/priansh24/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -260,3 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/priansh24/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/priansh24/Leetcode/tree/master/0777-toeplitz-matrix) |
