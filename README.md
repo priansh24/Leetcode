@@ -265,3 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/priansh24/Leetcode/tree/master/0777-toeplitz-matrix) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/priansh24/Leetcode/tree/master/1916-find-center-of-star-graph) |
