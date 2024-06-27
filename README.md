@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/priansh24/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/priansh24/Leetcode/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/priansh24/Leetcode/tree/master/0257-binary-tree-paths) |
 # Tree
