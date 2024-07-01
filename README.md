@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/priansh24/Leetcode/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/priansh24/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -338,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/priansh24/Leetcode/tree/master/0212-word-search-ii) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/priansh24/Leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
