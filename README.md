@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/priansh24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/priansh24/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/priansh24/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/priansh24/Leetcode/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -312,11 +313,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/priansh24/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/priansh24/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/priansh24/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/priansh24/Leetcode/tree/master/0212-word-search-ii) |
 ## Array
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/priansh24/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/priansh24/Leetcode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/priansh24/Leetcode/tree/master/0212-word-search-ii) |
 | [1293-three-consecutive-odds](https://github.com/priansh24/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Union Find
 |  |
@@ -330,4 +333,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/priansh24/Leetcode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/priansh24/Leetcode/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/priansh24/Leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
