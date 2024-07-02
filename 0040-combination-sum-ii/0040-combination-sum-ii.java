@@ -8,6 +8,7 @@ class Solution {
 
     private void helper(int index,int[] candidates, int target, List<List<Integer>> res, List<Integer> list)
     {
+        if(target<0) return;
         if(target==0)
         {
             res.add(new ArrayList<>(list));
