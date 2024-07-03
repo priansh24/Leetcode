@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priansh24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## Sorting
 |  |
 | ------- |
@@ -368,4 +369,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/priansh24/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
+## Binary Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 <!---LeetCode Topics End-->
