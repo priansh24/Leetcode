@@ -42,7 +42,7 @@ class Solution {
         if(head == null || head.next==null || head.next.next == null) return ans;
         int prevCriticalPoint = 0, currentCriticalPoint = 0, firstCriticalPoint = -1;
         int ind = 2;
-        List<Integer> list = new ArrayList<>();
+        // List<Integer> list = new ArrayList<>();
         ListNode prev = head;
         ListNode current = head.next;
         ListNode nxt = current.next;
@@ -55,7 +55,7 @@ class Solution {
                 prevCriticalPoint = currentCriticalPoint;
                 currentCriticalPoint = ind;
                 if(prevCriticalPoint>0) min = Math.min(min,currentCriticalPoint-prevCriticalPoint);
-                list.add(ind);
+                // list.add(ind);
             }
             prev = current;
             current = nxt;
@@ -65,7 +65,7 @@ class Solution {
         if(prevCriticalPoint == 0) return ans;
         ans[0] = min;
         ans[1] = currentCriticalPoint-firstCriticalPoint;
-        for(int i:list) System.out.print(i+" ");
+        // for(int i:list) System.out.print(i+" ");
         return ans;
     }
 }
