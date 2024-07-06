@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/priansh24/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/priansh24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/priansh24/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/priansh24/Leetcode/tree/master/0198-house-robber) |
 ## Backtracking
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/priansh24/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/priansh24/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/priansh24/Leetcode/tree/master/0079-word-search) |
+| [0198-house-robber](https://github.com/priansh24/Leetcode/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/priansh24/Leetcode/tree/master/0212-word-search-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priansh24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priansh24/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
