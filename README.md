@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/priansh24/Leetcode/tree/master/0016-3sum-closest) |
 | [0234-palindrome-linked-list](https://github.com/priansh24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priansh24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/priansh24/Leetcode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/priansh24/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/priansh24/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/priansh24/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/priansh24/Leetcode/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priansh24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/priansh24/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
