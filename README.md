@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/priansh24/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/priansh24/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/priansh24/Leetcode/tree/master/0212-word-search-ii) |
+| [1250-longest-common-subsequence](https://github.com/priansh24/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priansh24/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/priansh24/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Dynamic Programming
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/priansh24/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/priansh24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/priansh24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/priansh24/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
