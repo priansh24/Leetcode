@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priansh24/Leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/priansh24/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/priansh24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/priansh24/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priansh24/Leetcode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/priansh24/Leetcode/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/priansh24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/priansh24/Leetcode/tree/master/1013-fibonacci-number) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priansh24/Leetcode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/priansh24/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/priansh24/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priansh24/Leetcode/tree/master/0070-climbing-stairs) |
