@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/priansh24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/priansh24/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/priansh24/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/priansh24/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/priansh24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/priansh24/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/priansh24/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/priansh24/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/priansh24/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/priansh24/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/priansh24/Leetcode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/priansh24/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/priansh24/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priansh24/Leetcode/tree/master/0070-climbing-stairs) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/priansh24/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priansh24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/priansh24/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/priansh24/Leetcode/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/priansh24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priansh24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
