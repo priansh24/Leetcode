@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priansh24/Leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/priansh24/Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/priansh24/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/priansh24/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priansh24/Leetcode/tree/master/0070-climbing-stairs) |
