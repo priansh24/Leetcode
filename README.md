@@ -444,14 +444,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/priansh24/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/priansh24/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/priansh24/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -492,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/priansh24/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/priansh24/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
