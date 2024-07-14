@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priansh24/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/priansh24/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priansh24/Leetcode/tree/master/0016-3sum-closest) |
 | [0234-palindrome-linked-list](https://github.com/priansh24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/priansh24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/priansh24/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/priansh24/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/priansh24/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priansh24/Leetcode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/priansh24/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/priansh24/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/priansh24/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priansh24/Leetcode/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/priansh24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priansh24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
