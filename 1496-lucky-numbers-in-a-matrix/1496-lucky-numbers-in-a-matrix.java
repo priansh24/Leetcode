@@ -33,13 +33,14 @@ class Solution {
             {
                 max = max>j?max:j;
             }
+            if(minis.contains(max)) ans.add(max);
             maxis.add(max);
         }
 
-        for(int i:maxis)
-        {
-            if(minis.contains(i)) ans.add(i);
-        }
+        // for(int i:maxis)
+        // {
+        //     if(minis.contains(i)) ans.add(i);
+        // }
         return ans;
     }
 }
