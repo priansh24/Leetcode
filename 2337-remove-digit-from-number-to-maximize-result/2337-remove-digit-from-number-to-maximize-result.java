@@ -11,6 +11,6 @@ class Solution {
                 else max = s.compareTo(max)>0?s:max;
             }
         }
-        return max+"";
+        return max;
     }
 }
