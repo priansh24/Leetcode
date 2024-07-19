@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priansh24/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/priansh24/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/priansh24/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/priansh24/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/priansh24/Leetcode/tree/master/0011-container-with-most-water) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/priansh24/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/priansh24/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/priansh24/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Tree
 |  |
 | ------- |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/priansh24/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/priansh24/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 ## Binary Search Tree
 |  |
