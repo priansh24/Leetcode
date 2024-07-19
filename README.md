@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/priansh24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/priansh24/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1293-three-consecutive-odds](https://github.com/priansh24/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/priansh24/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/priansh24/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/priansh24/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/priansh24/Leetcode/tree/master/1803-average-waiting-time) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/priansh24/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/priansh24/Leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/priansh24/Leetcode/tree/master/0221-maximal-square) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/priansh24/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Trie
 |  |
 | ------- |
