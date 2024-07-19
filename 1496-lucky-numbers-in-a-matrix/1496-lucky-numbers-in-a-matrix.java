@@ -6,8 +6,6 @@ class Solution {
         int m = matrix.length;
         int n = matrix[0].length;
         int mat[][] = new int[n][m];
-        // int min = Integer.MAX_VALUE;
-        // int max = Integer.MIN_VALUE;
         for(int[] row: matrix)
         {
             int min = Integer.MAX_VALUE;
