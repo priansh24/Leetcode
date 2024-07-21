@@ -5,7 +5,6 @@ int l = word.length();
             return word.charAt(0) <= '9' ? 1 : 0;
         }
         
-        // -- Solution 1:
         char[] arr = word.toCharArray();
      
         if ((arr[0] == '0' && arr[1] <= '9') || arr[0] > '9') {
