@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priansh24/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/priansh24/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/priansh24/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/priansh24/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/priansh24/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Dynamic Programming
 |  |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/priansh24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/priansh24/Leetcode/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/priansh24/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/priansh24/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/priansh24/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 ## Sorting
