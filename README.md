@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/priansh24/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/priansh24/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/priansh24/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/priansh24/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/priansh24/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2846-robot-collisions](https://github.com/priansh24/Leetcode/tree/master/2846-robot-collisions) |
 ## Union Find
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/priansh24/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2472-build-a-matrix-with-conditions](https://github.com/priansh24/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Matrix
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/priansh24/Leetcode/tree/master/0221-maximal-square) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/priansh24/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/priansh24/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/priansh24/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Trie
 |  |
 | ------- |
@@ -578,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/priansh24/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/priansh24/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
