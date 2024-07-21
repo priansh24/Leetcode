@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/priansh24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/priansh24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/priansh24/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/priansh24/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -483,17 +484,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/priansh24/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/priansh24/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/priansh24/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/priansh24/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/priansh24/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/priansh24/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/priansh24/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/priansh24/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Simulation
 |  |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/priansh24/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/priansh24/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
