@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/priansh24/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/priansh24/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/priansh24/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2502-sort-the-people](https://github.com/priansh24/Leetcode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/priansh24/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/priansh24/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/priansh24/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/priansh24/Leetcode/tree/master/2502-sort-the-people) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/priansh24/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2846-robot-collisions](https://github.com/priansh24/Leetcode/tree/master/2846-robot-collisions) |
 ## Union Find
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/priansh24/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/priansh24/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/priansh24/Leetcode/tree/master/2502-sort-the-people) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/priansh24/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 ## Sorting
 |  |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/priansh24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/priansh24/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/priansh24/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/priansh24/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/priansh24/Leetcode/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
