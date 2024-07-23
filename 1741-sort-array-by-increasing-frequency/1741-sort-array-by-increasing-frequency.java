@@ -17,7 +17,7 @@ class Solution {
             arr.add(new Pair(e.getKey(),e.getValue()));
         }
         int n = arr.size();
-        for(Pair p:arr) System.out.println(p.num+" "+p.freq);
+        // for(Pair p:arr) System.out.println(p.num+" "+p.freq);
         Collections.sort(arr,(a,b)->{
             if(a.freq!=b.freq) return a.freq-b.freq;
             else return b.num-a.num;
