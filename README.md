@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/priansh24/Leetcode/tree/master/0567-permutation-in-string) |
 | [1250-longest-common-subsequence](https://github.com/priansh24/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priansh24/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priansh24/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1720-crawler-log-folder](https://github.com/priansh24/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/priansh24/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/priansh24/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/priansh24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/priansh24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/priansh24/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priansh24/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priansh24/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/priansh24/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
