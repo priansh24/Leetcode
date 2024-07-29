@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/priansh24/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/priansh24/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/priansh24/Leetcode/tree/master/1390-average-selling-price) |
+| [1452-restaurant-growth](https://github.com/priansh24/Leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/priansh24/Leetcode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/priansh24/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1670-patients-with-a-condition](https://github.com/priansh24/Leetcode/tree/master/1670-patients-with-a-condition) |
