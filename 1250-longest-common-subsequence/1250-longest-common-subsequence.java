@@ -35,16 +35,14 @@ class Solution {
         {
             for(int j = b.length()-1;j>=0;j--)
             {
-                int ans = 0;
                 if(a.charAt(i)==b.charAt(j))
                 {
-                    ans = 1 + dp[i+1][j+1];
+                    dp[i][j] = 1 + dp[i+1][j+1];
                 }
                 else
                 {
-                    ans = Math.max(dp[i+1][j],dp[i][j+1]); 
+                    dp[i][j] = Math.max(dp[i+1][j],dp[i][j+1]); 
                 }
-                dp[i][j] = ans;
             }
         }
         return dp[0][0];
