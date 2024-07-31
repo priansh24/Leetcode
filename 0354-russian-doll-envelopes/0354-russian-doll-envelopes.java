@@ -2,12 +2,8 @@ class Solution {
     public int maxEnvelopes(int[][] envelopes) {
         Arrays.sort(envelopes, new Comparator<int[]>() {
             // Compare values according to columns
-            public int compare(final int[] entry1,
-                               final int[] entry2)
+            public int compare(final int[] entry1,final int[] entry2)
             {
-
-                // To sort in descending order revert
-                // the '>' Operator
                 if(entry1[0] == entry2[0])
                 {
                     if(entry1[1]>entry2[1]) return -1;
