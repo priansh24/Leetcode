@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/priansh24/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priansh24/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/priansh24/Leetcode/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/priansh24/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/priansh24/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/priansh24/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/priansh24/Leetcode/tree/master/0212-word-search-ii) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/priansh24/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priansh24/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/priansh24/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/priansh24/Leetcode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/priansh24/Leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/priansh24/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/priansh24/Leetcode/tree/master/0198-house-robber) |
