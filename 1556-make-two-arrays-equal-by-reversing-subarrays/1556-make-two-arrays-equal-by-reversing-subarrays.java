@@ -6,9 +6,9 @@ class Solution {
             check[arr[i]]++;
             check[target[i]]--;
         }
-        for(int i=0;i<1001;i++)
+        for(int i:check)
         {
-            if(check[i]!=0) return false;
+            if(i!=0) return false;
         }
         return true;
     }
