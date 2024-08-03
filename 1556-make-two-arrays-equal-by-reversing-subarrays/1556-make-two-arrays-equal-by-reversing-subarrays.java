@@ -1,10 +1,14 @@
 class Solution {
     public boolean canBeEqual(int[] target, int[] arr) {
-        Arrays.sort(target);
-        Arrays.sort(arr);
+        int[] check = new int[1001];
         for(int i=0;i<arr.length;i++)
         {
-            if(arr[i]!=target[i]) return false;
+            check[arr[i]]++;
+            check[target[i]]--;
+        }
+        for(int i=0;i<1001;i++)
+        {
+            if(check[i]!=0) return false;
         }
         return true;
     }
