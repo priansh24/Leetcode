@@ -5,10 +5,11 @@ class Solution {
         int ans = 0;
         for(int i = 1;i<arrays.size();i++)
         {
-            ans = Math.max(ans,arrays.get(i).get(arrays.get(i).size()-1)-min);
+            int n = arrays.get(i).size();
+            ans = Math.max(ans,arrays.get(i).get(n-1)-min);
             ans = Math.max(ans,max - arrays.get(i).get(0));
             min = Math.min(min,arrays.get(i).get(0));
-            max = Math.max(max,arrays.get(i).get(arrays.get(i).size()-1));
+            max = Math.max(max,arrays.get(i).get(n-1));
         }
         return ans;
     }
