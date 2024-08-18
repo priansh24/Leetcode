@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/priansh24/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/priansh24/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/priansh24/Leetcode/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/priansh24/Leetcode/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/priansh24/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/priansh24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/priansh24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
