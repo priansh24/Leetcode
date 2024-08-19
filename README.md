@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/priansh24/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/priansh24/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/priansh24/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/priansh24/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/priansh24/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/priansh24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/priansh24/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/priansh24/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/priansh24/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/priansh24/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/priansh24/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/priansh24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/priansh24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/priansh24/Leetcode/tree/master/1642-water-bottles) |
