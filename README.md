@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/priansh24/Leetcode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/priansh24/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/priansh24/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/priansh24/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/priansh24/Leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/priansh24/Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/priansh24/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priansh24/Leetcode/tree/master/0200-number-of-islands) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/priansh24/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph
 |  |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/priansh24/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priansh24/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/priansh24/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/priansh24/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/priansh24/Leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/priansh24/Leetcode/tree/master/0221-maximal-square) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/priansh24/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priansh24/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/priansh24/Leetcode/tree/master/0200-number-of-islands) |
 | [0652-find-duplicate-subtrees](https://github.com/priansh24/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/priansh24/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/priansh24/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priansh24/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/priansh24/Leetcode/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
